@@ -1,12 +1,12 @@
 <?php
-function hitungTotalNilaiStok($Harga, $Stok)
+function hitungTotalNilaiStok($harga, $stok)
 {
-    return $Harga * $Stok;
+    return $harga * $stok;
 }
 
-function cekStokKritis($Stok)
+function cekStokKritis($stok)
 {
-    if ($Stok < 3) {
+    if ($stok < 3) {
         return true;
     }
     return false;

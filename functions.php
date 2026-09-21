@@ -1,5 +1,5 @@
 <?php
-function hitungNilaiTotalStok($Harga, $Stok)
+function hitungTotalNilaiStok($Harga, $Stok)
 {
     return $Harga * $Stok;
 }

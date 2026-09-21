@@ -24,7 +24,7 @@ $Product = [
     "Nama" => "Rice cooker",
     "Kategori" => "Penyimpanan dan Pengolahan makanan",
     "Harga" => 300000,
-    "Stok" => 8,
+    "Stok" => 2,
     "Deskripsi" => "Rice Cooker Multifungsi adalah perangkat elektronik rumah tangga yang dirancang untuk memasak dan menjaga nasi tetap hangat secara praktis."
    ],
 
@@ -42,7 +42,7 @@ $Product = [
     "Nama" => "penyedot debu (vacuum cleaner)",
     "Kategori" => "Kebersihan dan Perawatan Pakaian",
     "Harga" => 250000,
-    "Stok" => 15,
+    "Stok" => 1,
     "Deskripsi" => "pembersih yang dirancang untuk membantu membersihkan debu, kotoran, dan partikel kecil dari berbagai permukaan seperti lantai, karpet, sofa, dan sudut ruangan."
    ]
 
